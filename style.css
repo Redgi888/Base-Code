@@ -1,0 +1,60 @@
+
+/* селектор тегу пріоритет - 1 */
+
+
+p{
+font-size: 20px;
+color: blue;
+background: pink;
+text-decoration: underline;
+text-align: justify;
+
+}
+
+/* селектор класу пріоритет - 10 */
+
+.centerText{
+    text-align: center;
+    font-size: 25px;
+    color:red;
+    background: pink;
+    text-decoration: overline dashed;
+
+}
+
+/* селектор id пріоритет - 100 */
+
+.yellowText{
+color: yellow;
+
+}
+
+.htmlText{
+color: blue;
+background: red;
+font-weight: 900;
+
+
+
+
+
+
+}
+
+#textRight{
+    text-align: right;
+
+}
+
+/* селектор in-line пріоритет - 1000 */
+/* приклад в html */
+
+
+/* center-text */
+/* center_text - snake case */
+/* centrText - camel */
+
+
+
+
+
